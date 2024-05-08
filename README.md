@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Donde encontrarme
-[linkedin] (https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
