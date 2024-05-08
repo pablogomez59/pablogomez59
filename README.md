@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Skills:
+- Postman   
+- Selenium
+- Pruebas Móviles 
+- APIS  
+- JIRA
+- SQL     
+- Resolución de conflictos
+- Analítico
+
 ### Donde encontrarme
 - [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
