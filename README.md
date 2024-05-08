@@ -1,4 +1,4 @@
-https://github.com/pablogomez59/pablogomez59/blob/main/README.md### Hi there 👋
+### Hi there 👋
 
 <!--
 **pablogomez59/pablogomez59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
