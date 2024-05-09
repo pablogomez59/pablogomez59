@@ -40,4 +40,9 @@ Here are some ideas to get you started:
   
 - 📧 pablogrivera4@gmail.com
 
+- <div style="position:relative;">
+  <img src="descarga.png" width="100"/>
+  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); font-size: 16px; font-weight: bold;">Pablo Alejandro Gómez Rivera</div>
+</div>
+
 
