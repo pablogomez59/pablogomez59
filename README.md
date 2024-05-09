@@ -6,6 +6,8 @@
 
 ### Hi there 👋
 
+⚡Estoy terminando mi bootcamp como futuro QA Engineer en Tripleten.
+
 <!--
 **pablogomez59/pablogomez59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
