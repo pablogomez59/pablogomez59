@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Donde encontrarme
 
-- [<img src="descarga.png" width="20"/>](www.linkedin.com/in/pablo-gomez-qa-engineer)
+- [<img src="descarga.png" width="20"/>]([www.linkedin.com/in/pablo-gomez-qa-engineer](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile))
   
 - 📧 pablogrivera4@gmail.com
 
