@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 - Analítico
 
 ### Donde encontrarme
-- [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-  [<img src="descarga.png" width="20"/>](www.linkedin.com/in/pablo-gomez-qa-engineer)
+
+- [<img src="descarga.png" width="20"/>](www.linkedin.com/in/pablo-gomez-qa-engineer)
   
 - 📧 pablogrivera4@gmail.com
 
