@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 ### Donde encontrarme
 - [linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+  
 - [![Logo de LinkedIn](descarga.png)]([url_de_tu_perfil_de_LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+  
 - 📧 pablogrivera4@gmail.com
 
-descarga.png
+
